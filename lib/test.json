@@ -1,0 +1,165 @@
+{
+    "consolidated_weather": [
+        {
+            "id": 6192227534503936,
+            "weather_state_name": "Light Cloud",
+            "weather_state_abbr": "lc",
+            "wind_direction_compass": "ENE",
+            "created": "2022-04-21T12:59:01.644694Z",
+            "applicable_date": "2022-04-21",
+            "min_temp": 7.380000000000001,
+            "max_temp": 16.97,
+            "the_temp": 16.275,
+            "wind_speed": 7.447983080500543,
+            "wind_direction": 73.61239156684975,
+            "air_pressure": 1012.5,
+            "humidity": 56,
+            "visibility": 11.108874174819057,
+            "predictability": 70
+        },
+        {
+            "id": 4539455399526400,
+            "weather_state_name": "Showers",
+            "weather_state_abbr": "s",
+            "wind_direction_compass": "ENE",
+            "created": "2022-04-21T12:59:01.760167Z",
+            "applicable_date": "2022-04-22",
+            "min_temp": 8.41,
+            "max_temp": 15.165000000000001,
+            "the_temp": 13.865,
+            "wind_speed": 9.912835302404623,
+            "wind_direction": 65.50297755813853,
+            "air_pressure": 1008.5,
+            "humidity": 68,
+            "visibility": 11.785858088761632,
+            "predictability": 73
+        },
+        {
+            "id": 4529477250973696,
+            "weather_state_name": "Showers",
+            "weather_state_abbr": "s",
+            "wind_direction_compass": "ENE",
+            "created": "2022-04-21T12:59:01.364969Z",
+            "applicable_date": "2022-04-23",
+            "min_temp": 9.48,
+            "max_temp": 15.625,
+            "the_temp": 15.225,
+            "wind_speed": 11.947107817747025,
+            "wind_direction": 69.49579703044526,
+            "air_pressure": 1005.5,
+            "humidity": 57,
+            "visibility": 12.66727312495029,
+            "predictability": 73
+        },
+        {
+            "id": 5655377157816320,
+            "weather_state_name": "Showers",
+            "weather_state_abbr": "s",
+            "wind_direction_compass": "NE",
+            "created": "2022-04-21T12:59:01.558082Z",
+            "applicable_date": "2022-04-24",
+            "min_temp": 7.8100000000000005,
+            "max_temp": 14.5,
+            "the_temp": 14.52,
+            "wind_speed": 10.277177749354438,
+            "wind_direction": 48.66164574425015,
+            "air_pressure": 1007.5,
+            "humidity": 53,
+            "visibility": 13.535639366101964,
+            "predictability": 73
+        },
+        {
+            "id": 6742405731581952,
+            "weather_state_name": "Light Rain",
+            "weather_state_abbr": "lr",
+            "wind_direction_compass": "NE",
+            "created": "2022-04-21T12:59:02.455562Z",
+            "applicable_date": "2022-04-25",
+            "min_temp": 6.42,
+            "max_temp": 12.754999999999999,
+            "the_temp": 13.165,
+            "wind_speed": 7.205027844640632,
+            "wind_direction": 37.9957233079115,
+            "air_pressure": 1013.5,
+            "humidity": 57,
+            "visibility": 12.30843126143323,
+            "predictability": 75
+        },
+        {
+            "id": 5482762254417920,
+            "weather_state_name": "Heavy Cloud",
+            "weather_state_abbr": "hc",
+            "wind_direction_compass": "NNE",
+            "created": "2022-04-21T12:59:04.254782Z",
+            "applicable_date": "2022-04-26",
+            "min_temp": 5.57,
+            "max_temp": 14.055,
+            "the_temp": 13.57,
+            "wind_speed": 2.992828879344627,
+            "wind_direction": 30.5,
+            "air_pressure": 1018.0,
+            "humidity": 51,
+            "visibility": 9.999726596675416,
+            "predictability": 71
+        }
+    ],
+    "time": "2022-04-21T15:32:45.036743+01:00",
+    "sun_rise": "2022-04-21T05:52:24.440163+01:00",
+    "sun_set": "2022-04-21T20:07:09.021903+01:00",
+    "timezone_name": "LMT",
+    "parent": {
+        "title": "England",
+        "location_type": "Region / State / Province",
+        "woeid": 24554868,
+        "latt_long": "52.883560,-1.974060"
+    },
+    "sources": [
+        {
+            "title": "BBC",
+            "slug": "bbc",
+            "url": "http://www.bbc.co.uk/weather/",
+            "crawl_rate": 360
+        },
+        {
+            "title": "Forecast.io",
+            "slug": "forecast-io",
+            "url": "http://forecast.io/",
+            "crawl_rate": 480
+        },
+        {
+            "title": "HAMweather",
+            "slug": "hamweather",
+            "url": "http://www.hamweather.com/",
+            "crawl_rate": 360
+        },
+        {
+            "title": "Met Office",
+            "slug": "met-office",
+            "url": "http://www.metoffice.gov.uk/",
+            "crawl_rate": 180
+        },
+        {
+            "title": "OpenWeatherMap",
+            "slug": "openweathermap",
+            "url": "http://openweathermap.org/",
+            "crawl_rate": 360
+        },
+        {
+            "title": "Weather Underground",
+            "slug": "wunderground",
+            "url": "https://www.wunderground.com/?apiref=fc30dc3cd224e19b",
+            "crawl_rate": 720
+        },
+        {
+            "title": "World Weather Online",
+            "slug": "world-weather-online",
+            "url": "http://www.worldweatheronline.com/",
+            "crawl_rate": 360
+        }
+    ],
+    "title": "London",
+    "location_type": "City",
+    "woeid": 44418,
+    "latt_long": "51.506321,-0.12714",
+    "timezone": "Europe/London"
+}
